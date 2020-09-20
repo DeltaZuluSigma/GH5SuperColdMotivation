@@ -1,0 +1,30 @@
+nav {
+	background-color: #ade9ff;
+}
+section {
+	background-color: white;
+}
+footer {
+	background-color: #8ad1eb;
+	color: gray;
+}
+a:link, a:visited {
+	color: white;
+}
+a:hover, a:active {
+	font-weight: 900;
+}
+#cvr {
+	padding: 70px 100px;
+	text-align: center;
+	color: white;
+}
+#idx:link, #idx:visited, #idx:hover, #idx:active {
+	color: black;
+	text-decoration: none;
+}
+.jumbotron {
+	background-color: #8abbff;
+	padding: 10px;
+	margin: 0px;
+}
